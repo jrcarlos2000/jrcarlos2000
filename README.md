@@ -9,4 +9,4 @@ Building [Stormbit](https://stormbit.finance): insured DeFi lending where every 
 
 [jrcarlos2000.dev](https://jrcarlos2000.dev)
 
-<img src="cube.gif" width="96" alt="">
+<img src="collar.gif" width="96" alt="">
