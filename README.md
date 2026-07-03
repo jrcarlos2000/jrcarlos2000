@@ -1,9 +1,11 @@
-## Carlos Ramos
----
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrcarlos2000)
+# Carlos Ramos
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcarlos2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Protocol engineer. I build systems with the downside engineered in.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+Building [Stormbit](https://stormbit.finance): insured DeFi lending where every loan is hedged at origination, no liquidations. My teams work through a multi-runtime agent fleet I designed.
+
+- Maintainer, [Scaffold-Stark](https://github.com/Scaffold-Stark/scaffold-stark-2)
+- Smart contract security research: Code4rena, Secure3
+- Also commits as [@0xquantum3labs](https://github.com/0xquantum3labs)
+
+[jrcarlos2000.dev](https://jrcarlos2000.dev)
