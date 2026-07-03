@@ -6,6 +6,5 @@ Building [Stormbit](https://stormbit.finance): insured DeFi lending where every 
 
 - Maintainer, [Scaffold-Stark](https://github.com/Scaffold-Stark/scaffold-stark-2)
 - Smart contract security research: Code4rena, Secure3
-- Also commits as [@0xquantum3labs](https://github.com/0xquantum3labs)
 
 [jrcarlos2000.dev](https://jrcarlos2000.dev)
