@@ -1,4 +1,4 @@
-# Carlos Ramos
+# Carlos Ramos <img align="right" src="cube.gif" width="96" alt="">
 
 Protocol engineer. I build systems with the downside engineered in.
 
