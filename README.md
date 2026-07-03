@@ -1,4 +1,4 @@
-# Carlos Ramos <img align="right" src="cube.gif" width="96" alt="">
+# Carlos Ramos
 
 Protocol engineer. I build systems with the downside engineered in.
 
@@ -8,3 +8,5 @@ Building [Stormbit](https://stormbit.finance): insured DeFi lending where every 
 - Smart contract security research: Code4rena, Secure3
 
 [jrcarlos2000.dev](https://jrcarlos2000.dev)
+
+<img src="cube.gif" width="96" alt="">
